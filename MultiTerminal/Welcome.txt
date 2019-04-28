@@ -1,0 +1,2 @@
+Hello and thank you for installing MultiTerminal Version 0.0.1a ALPHA
+We hope we make the Terminal easier for you!
